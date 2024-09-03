@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @wymili
 - 👀 I’m interested in games!
-- 🌱 I’m currently learning JavaScript, Css, HTML, Python, C++
+- 🌱 I’m currently learning JavaScript, Css, HTML, Python, C++, Delphi
