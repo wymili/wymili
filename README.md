@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @wymili
-- 🌱 I’m currently learning JavaScript, HTML e CSS
+
